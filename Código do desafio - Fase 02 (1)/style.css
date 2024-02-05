@@ -67,7 +67,6 @@ h1 {
   font-weight: normal;
 
   width: 490px;
-  
 }
 
 h1 span {
@@ -91,6 +90,7 @@ button {
   background: #69b99d;
   border: 0;
   padding: 17px 32px;
+  margin-top: 40px;
 
   display: flex;
   justify-content: space-between;
