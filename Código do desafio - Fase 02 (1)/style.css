@@ -50,7 +50,10 @@ body {
   ul {
     font-family: "Mulish", sans-serif;
   }
-  
+  main{
+   display: flex;
+   justify-content: space-between;
+  }
   h1 {
     font-size: 49px;
     line-height: 56px;
